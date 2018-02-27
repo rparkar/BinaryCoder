@@ -39,7 +39,7 @@ class BinaryDecimal{
             
             if binaryDigit == 1 {
                 
-                int = int - 1
+                int = int - row
             }
         }
         
